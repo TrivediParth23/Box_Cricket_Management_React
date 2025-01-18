@@ -8,10 +8,10 @@ Open your terminal and run:
 
 
 ## code
-npx create-react-app my-react-app
+`npx create-react-app my-react-app
 npx: Executes a package without installing it globally.
 create-react-app: The tool for setting up a new React project.
-my-react-app: The name of your project directory. You can name it whatever you want.
+my-react-app: The name of your project directory. You can name it whatever you want.`
 
 3. Navigate to Your Project Directory
 After the project is created, navigate into the project directory:
