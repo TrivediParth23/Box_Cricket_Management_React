@@ -6,8 +6,6 @@ Create React App is a tool that sets up a new React project with a good default 
 
 Open your terminal and run:
 
-
-## code
 `npx create-react-app my-react-app
 npx: Executes a package without installing it globally.
 create-react-app: The tool for setting up a new React project.
@@ -16,15 +14,13 @@ my-react-app: The name of your project directory. You can name it whatever you w
 3. Navigate to Your Project Directory
 After the project is created, navigate into the project directory:
 
-## code
-cd my-react-app
-
+`cd my-react-app
+`
 4. Start the Development Server
 To run the project, use the following command:
 
-## code
-npm start
-This command will start a development server and open your new React app in the default browser. The app will be running at http://localhost:3000/.
+`npm start
+`This command will start a development server and open your new React app in the default browser. The app will be running at http://localhost:3000/.
 
 5. Edit the Code
 You can open the project in your preferred code editor (like Visual Studio Code) and start editing the files in the src directory.
@@ -35,10 +31,8 @@ If you need to stop the development server, go back to your terminal and press C
 7. Build the Project for Production (Optional)
 When you're ready to deploy your project, you can build it with:
 
-## code
-npm run build
-This will create an optimized production build in the build directory.
-
+`npm run build
+`
 ## User Flowchart :
 <img width="478" alt="Screenshot 2025-01-18 193007" src="https://github.com/user-attachments/assets/a27264ec-2e3c-4940-8bbd-daa07cb9a59a" />
 
