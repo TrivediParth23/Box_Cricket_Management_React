@@ -12,12 +12,14 @@ npx create-react-app my-react-app
 npx: Executes a package without installing it globally.
 create-react-app: The tool for setting up a new React project.
 my-react-app: The name of your project directory. You can name it whatever you want.
+
 3. Navigate to Your Project Directory
 After the project is created, navigate into the project directory:
 
 bash
 Copy code
 cd my-react-app
+
 4. Start the Development Server
 To run the project, use the following command:
 
